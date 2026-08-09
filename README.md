@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [06 — Multi-Layer Safety / Moderation](../06-safety-moderation-pipeline.md)
+**Parent system design:** [06 — Multi-Layer Safety / Moderation](./06-safety-moderation-pipeline.md)
 
 ## Users & problem
 
@@ -30,7 +30,7 @@ Input L0/L1 → policy-aligned model → streaming L2 output checks
   → reason_code + audit
 ```
 
-Reuse layered plane and fail-closed rules from **06**; integrate with [02 streaming](../02-streaming-token-delivery.md).
+Reuse layered plane and fail-closed rules from **06**; integrate with [02 streaming](./02-streaming-token-delivery.md).
 
 ## Specializations
 
@@ -44,7 +44,7 @@ Reuse layered plane and fail-closed rules from **06**; integrate with [02 stream
 ## Failure modes
 
 - Safety outage → fail-closed on critical categories.
-- Under-refuse after model upgrade → canary safety gates ([05](../05-model-monitoring-observability.md)).
+- Under-refuse after model upgrade → canary safety gates ([05](./05-model-monitoring-observability.md)).
 - Inconsistent app vs API → shared decision plane.
 
 

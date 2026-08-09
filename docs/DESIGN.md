@@ -1,7 +1,7 @@
 # Design: Consumer Chat Content Policy
 
 **Project:** `consumer-chat-content-policy`  
-**Parent system design:** `06-safety-moderation-pipeline.md`
+**Parent system design:** [06 — Multi-Layer Safety / Moderation](../06-safety-moderation-pipeline.md)
 
 ## 1. What this POC demonstrates
 
