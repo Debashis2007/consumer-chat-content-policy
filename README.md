@@ -1,5 +1,7 @@
 # Use Case: Consumer Chat Content Policy
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Consumer Chat Content Policy — System Design #Shorts](https://youtu.be/M6wJr7kLl6w)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
