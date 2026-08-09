@@ -37,8 +37,12 @@ This folder is self-contained and can be published as its own GitHub repository.
 
 ## 7. Design walkthrough video
 
-Narrated with **ElevenLabs Debpro voice** and Debpro still image (via [GitaProject](/Users/deb/Development/GenAI/GitaProject)):
+> **Watch on YouTube:** [Consumer Chat Content Policy — System Design #Shorts](https://youtu.be/M6wJr7kLl6w)
+>
+> Direct link: **https://youtu.be/M6wJr7kLl6w**
 
-- Video: [`video/design-overview.mp4`](./video/design-overview.mp4)
-- Script: [`video/narration.txt`](./video/narration.txt)
+Also available in-repo:
+- GIF preview: [`video/design-overview.gif`](./video/design-overview.gif)
+- MP4 download: [`video/design-overview.mp4`](./video/design-overview.mp4)
+- Narration script: [`video/narration.txt`](./video/narration.txt)
 

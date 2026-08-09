@@ -1,5 +1,7 @@
 # Use Case: Consumer Chat Content Policy
 
+**YouTube walkthrough:** [Consumer Chat Content Policy — System Design #Shorts](https://youtu.be/M6wJr7kLl6w)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -47,6 +49,9 @@ Reuse layered plane and fail-closed rules from **06**; integrate with [02 stream
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Consumer Chat Content Policy — System Design #Shorts](https://youtu.be/M6wJr7kLl6w)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
